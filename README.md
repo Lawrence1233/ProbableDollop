@@ -13,8 +13,8 @@ Python 3.7+
 https://baidu.com
 
 # 贡献者
-邢可            
+Lawrence            
 DearWatermelon 
 
 # 作者
-邢可
+Lawrence
